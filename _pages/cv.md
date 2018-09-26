@@ -4,7 +4,7 @@ title: "Bio"
 permalink: /bio/
 author_profile: true
 redirect_from:
-  - /resume
+  - /bio
 ---
 
 {% include base_path %}
