@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-##An Assistive System for Upper Limb Montion Combining Functional Electrical Stimulation and Robotic Exoskeleton
+## An Assistive System for Upper Limb Montion Combining Functional Electrical Stimulation and Robotic Exoskeleton
