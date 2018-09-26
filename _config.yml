@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jingkun Zhang"
 title_separator          : "-"
 name                     : &name "Jingkun Zhang"
-description              : &description "ME graduate from SJTU"
+description              : &description "Visiting student at McGill,graduate from SJTU"
 url                      : https://jkzhang7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jkzhang7.github.io"
@@ -82,7 +82,7 @@ author:
   name             : "Jingkun Zhang"
   avatar           : "jingkunzhang.jpg"
   bio              : "ME graduate from SJTU"
-  location         : "Shanghai, China"
+  location         : "Montreal, Quebec"
   employer         :
   googlescholar    : 
   email            : "jkzhang7@hotmail.com"
