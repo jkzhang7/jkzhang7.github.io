@@ -10,4 +10,3 @@ redirect_from:
 
 Please click any section shown below to know more about Jingkun!
 
-Lorem ipsum.
