@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Bio
+## About me
 
 Hey there! I am Jingkun Zhang, currently a visiting student at [Centre for Intelligent Machines](http://www.cim.mcgill.ca/) (CIM), supervised by [Prof. Jorge Angeles](http://www.cim.mcgill.ca/~angeles/).
 
