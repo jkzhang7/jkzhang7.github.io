@@ -20,6 +20,6 @@ The photo of my last soccer game at SJTU is shown below.
 
 I am also really into traveling, always willing to experience different cultures, foods and things.
 
-Here is the photo I took in Ottawa, Canada in July 2018, which is Parliament Hill
+Here is the photo I took in Ottawa, Canada in July 2018, which is Parliament Hill.
 
 ![](https://raw.githubusercontent.com/jkzhang7/jkzhang7.github.io/master/images/traveling1.jpg)
