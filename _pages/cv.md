@@ -20,7 +20,7 @@ I am applying for graduate school starting from Fall 2019 in North America now!
 
 ## Education
 
-B.Sc in Mechanical Engineering, Shanghai Jiao Tong University, Sep 2014 - Jun 2018
+B.Sc in Mechanical Engineering, *Shanghai Jiao Tong University*, Sep 2014 - Jun 2018
 
 ## Research Experience
 
@@ -32,5 +32,16 @@ B.Sc in Mechanical Engineering, Shanghai Jiao Tong University, Sep 2014 - Jun 20
 
 ## Skills
 
-Programming Languages: C, C#, Python, Matlab, LabView
-Applications: Microsoft Office, , Auto CAD, UG, SolidWorks, ProE, Altium Designer, ABAQUS, Adams
+**Desiging skills**:
+
+Adept in Mechanical Desgin, proficiency in Auto CAD, UG, SolidWorks, ProE.
+
+Experienced in embedded system design (PCB, Arduino), proficiency in Altium Designer.
+
+**Programming skills**:
+
+Adept in C, C#. familiar with Python, Matlab.
+
+**Engineering applications & other skills**:
+
+Simulink, LabView, ABAQUS, Office, LaTex 
