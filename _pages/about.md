@@ -10,3 +10,4 @@ redirect_from:
 
 Please click any section shown below to know more about Jingkun!
 
+Please [Click here](https://github.com/jkzhang7/jkzhang7.github.io/blob/master/files/CV_Jingkun%20Zhang.pdf) to read my CV!
