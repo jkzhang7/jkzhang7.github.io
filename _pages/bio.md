@@ -18,7 +18,7 @@ My research interests include Robotics Design and Control, Exoskeleton, Medical 
 
 I am applying for graduate school starting from Fall 2019 in North America now!
 
-Please [Click here](https://github.com/jkzhang7/jkzhang7.github.io/blob/master/files/CV_Jingkun%20Zhang.pdf) to read my CV!
+Please [Click here](https://drive.google.com/file/d/1bKcoULmWcssa_RoHPrzOVO66uRonDyn2/view?usp=sharing) to read my CV!
 
 ## Education
 
