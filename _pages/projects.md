@@ -18,6 +18,6 @@ redirect_from:
 
 [Click here](https://www.youtube.com/watch?v=blTr66BPLY8&feature=youtu.be) to watch demo video of the whole system!
 
-[Click here](https://github.com/jkzhang7/jkzhang7.github.io/blob/master/files/bachelorthesis.pdf) to read my bachelor's thesis (Chinese version)!
+[Click here](https://drive.google.com/file/d/1AbOqdvNbXavednHUYDj82S4OpCtNN8_K/view?usp=sharing) to read my bachelor's thesis (Chinese version)!
 
 ## Other projects are coming soon!
