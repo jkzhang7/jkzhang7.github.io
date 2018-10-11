@@ -22,8 +22,6 @@ My research interests include Robotics Design and Control, Exoskeleton, Medical 
 
 I am applying for graduate school starting from Fall 2019 in North America now!
 
-Please [Click here](https://drive.google.com/file/d/1bKcoULmWcssa_RoHPrzOVO66uRonDyn2/view?usp=sharing) to read my CV!
-
 ## Education
 
 B.Sc in Mechanical Engineering, *Shanghai Jiao Tong University*, Sep 2014 - Jun 2018
