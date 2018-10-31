@@ -18,7 +18,7 @@ My research interests include Robotics Design and Control, Exoskeleton, Medical 
 
 I am applying for graduate school starting from Fall 2019 in North America now!
 
-Please [Click here](https://drive.google.com/file/d/1UiAxAccx7Meg6nFrOMjUaOgdawTyU675/view?usp=sharing) to read my CV!
+Please [Click here](https://drive.google.com/file/d/1RENTgQ-N6HSu3egjus6KqS0ML8And6Ay/view?usp=sharing) to read my CV!
 
 ## Education
 
