@@ -20,4 +20,15 @@ redirect_from:
 
 [Click here](https://drive.google.com/file/d/1AbOqdvNbXavednHUYDj82S4OpCtNN8_K/view?usp=sharing) to read my bachelor's thesis (Chinese version)!
 
+## Control on a Novel Pick-and-place Robot
+
+-Literature review about the schönies motion generator (SMG) and pick-and-place robot
+
+-Improve the control scheme by applying Linear–quadratic regulator controller and Extended Kalman Filter to reudce trajectory-planning error
+
+-Conducted the simulation and the practical experiments to test the control scheme
+
+![](https://raw.githubusercontent.com/jkzhang7/jkzhang7.github.io/master/images/PMC_robot.jpg)
+
+
 ## Other projects are coming soon!
