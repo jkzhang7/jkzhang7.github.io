@@ -22,13 +22,21 @@ redirect_from:
 
 ## Control on a Novel Pick-and-place Robot
 
--Literature review about the schönies motion generator (SMG) and pick-and-place robot
+- Literature review about the schönies motion generator (SMG) and pick-and-place robot
 
--Improve the control scheme by applying Linear–quadratic regulator controller and Extended Kalman Filter to reudce trajectory-planning error
+- Improve the control scheme by applying Linear–quadratic regulator controller and Extended Kalman Filter to reudce trajectory-planning error
 
--Conducted the simulation and the practical experiments to test the control scheme
+- Conducted the simulation and the practical experiments to test the control scheme
 
 ![](https://raw.githubusercontent.com/jkzhang7/jkzhang7.github.io/master/images/PMC_robot.jpg)
+
+## An Energy Harvesting Device
+
+- Designed and manufactured a system of energy harvester that can transfer mechanical energy to electric energy in human locomotion, which has a much higher energy conversion rate
+
+- Built the actual experimental setup including LabView programming and measured the conversion rate
+
+- Improved the design by changing the structure of locomotive part
 
 
 ## Other projects are coming soon!
