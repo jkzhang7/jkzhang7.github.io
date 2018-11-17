@@ -38,5 +38,6 @@ redirect_from:
 
 - Improved the design by changing the structure of locomotive part
 
+![](https://raw.githubusercontent.com/jkzhang7/jkzhang7.github.io/master/images/shaker%20design%201.png)
 
 ## Other projects are coming soon!
