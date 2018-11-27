@@ -10,7 +10,7 @@ redirect_from:
 
 Please click any section shown below to know more about Jingkun!
 
-Please [Click here](https://drive.google.com/file/d/1gG_RY_z_OvvuSjck7zNaDvKVkvZROuOC/view?usp=sharing) to read my CV!
+Please [Click here](https://drive.google.com/file/d/1Q1TdwrSVb1v2Azn4mwLHxjKB0GJaGbmT/view?usp=sharing) to read my CV!
 
 ## About me
 
