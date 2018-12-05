@@ -26,11 +26,11 @@ B.Sc in Mechanical Engineering, *Shanghai Jiao Tong University*, Sep 2014 - Jun 
 
 ## Research Experience
 
-- **Control on a Novel Pick-and-place (P&P) Robot**, *CIM at McGill University, Canada*, Jul 2018 - Current, supervised by [Prof. Jorge Angeles](http://www.cim.mcgill.ca/~angeles/).
+- **Control on a Novel Pick-and-place Robot**, *CIM at McGill University, Canada*, Jul 2018 - Current, supervised by [Prof. Jorge Angeles](http://www.cim.mcgill.ca/~angeles/).
 
-- **An Assistive System for Upper Limb Motion Combining Functional Electrical Stimulation and Robotic Exoskeleton**, *SJTU, China*, Dec 2017 - May 2018, superivised by [Prof. Dingguo Zhang](http://bbl.sjtu.edu.cn/dgzhang).
+- **Assistive System for Upper Limb Motion, Combining Functional Electrical Stimulation and Robotic Exoskeleton**, *SJTU, China*, Dec 2017 - May 2018, superivised by [Prof. Dingguo Zhang](http://bbl.sjtu.edu.cn/dgzhang).
 
-- **An Engergy Harvesting Device**, *Universtiy of Wisconsin-Madison, USA*, Jun 2017 - Sep 2017, supervised by [Prof. Tom Krupenkin](https://directory.engr.wisc.edu/me/Faculty/Krupenkin_Tom/).
+- **Engergy Harvesting Device**, *Universtiy of Wisconsin-Madison, USA*, Jun 2017 - Sep 2017, supervised by [Prof. Tom Krupenkin](https://directory.engr.wisc.edu/me/Faculty/Krupenkin_Tom/).
 
 ## Skills
 
