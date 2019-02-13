@@ -6,4 +6,4 @@ redirect_from:
   - /publications
 ---
 
-This section is coming soon, hopefully!
+[1] Yansong Wang, **Jingkun Zhang**, Xu Cheng, Dingguo Zhang. "An Assistive System for Upper Limb Motion Combining Functional Electrical Stimulation and Robotic Exoskeleton" **The International Functional Electrical Stimulation Society**. Under review.
