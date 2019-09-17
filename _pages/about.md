@@ -38,16 +38,11 @@ B.Sc in Mechanical Engineering, *Shanghai Jiao Tong University*, Sep 2014 - Jun 
 
 ## Skills
 
-**Desiging skills**:
+■ Language: Python, C/C++
 
-Adept in Mechanical Desgin, proficiency in Auto CAD, UG, SolidWorks, ProE.
+■ Software: Matlab, ROS, Simulink, Linux, Visual Studio, LaTex, Labview
 
-Experienced in embedded system design (PCB, Arduino), proficiency in Altium Designer.
+■ Package: OpenCV, Tensorflow
 
-**Programming skills**:
+■ Adept in Mechanical Desgin and Embedded System Design
 
-Adept in C, C#. familiar with Python, Matlab.
-
-**Engineering applications & other skills**:
-
-Simulink, LabView, ABAQUS, Office, LaTex 
