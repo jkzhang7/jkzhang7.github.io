@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jingkun's personal website"
+title: "Better Robots, Better Life"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
