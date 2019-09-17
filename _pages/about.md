@@ -18,7 +18,7 @@ Hey there! I am Jingkun Zhang, currently a MS student majoring mechancial engine
 
 Before it, I obtained my B.Sc degree in Mechanical Engineering from [Shanghai Jiao Tong University](http://202.120.53.238/English/) (SJTU) in June 2018. I was fortunately advised by [Prof. Dingguo Zhang](http://bbl.sjtu.edu.cn/dgzhang), [Prof. Jorge Angeles](http://www.cim.mcgill.ca/~angeles/) and [Prof. Tom Krupenkin](https://directory.engr.wisc.edu/me/Faculty/Krupenkin_Tom/) during my undergradute.
 
-My research interests include Robotics, Machine Learning, Autonomous Driving and Computer Vision
+My research interests include Robotics, Machine Learning, Autonomous Driving and Computer Vision.
 
 ## Education
 
