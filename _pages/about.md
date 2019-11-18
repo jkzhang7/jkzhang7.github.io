@@ -10,7 +10,7 @@ redirect_from:
 
 Please click any section to know more about Jingkun!
 
-Please [Click here](https://drive.google.com/file/d/1oHn3dywZeWmpih4xQwo4fOVRz5MvE5aw/view?usp=sharing) to read my CV! (Updated in 09/2019)
+Please [Click here](https://drive.google.com/file/d/15BoDCvY092cZPcBIPVK5RvY4npZsyqGt/view?usp=sharing) to read my CV! (Updated in 11/2019)
 
 ## About me
 
@@ -20,11 +20,20 @@ Before it, I obtained my B.Sc degree in Mechanical Engineering from [Shanghai Ji
 
 My research interests include Robotics, Machine Learning, Autonomous Driving and Computer Vision.
 
+I am actively looking for full-time internship in the discipline of Autonomous Driving, Robotics and Computer Vision. 
+
 ## Education
 
-M.Sc in Mechanical Engineering, *University of Washington - Seattle*, Sep 2019 - Mar 2021 (Expected)
+M.Sc in Mechanical Engineering, *University of Washington - Seattle*, Sep 2019 - Dec 2020 (Expected)
 
 B.Sc in Mechanical Engineering, *Shanghai Jiao Tong University*, Sep 2014 - Jun 2018
+
+## Slected Projects
+
+- **Whale species classifier by flukes image** Kaggle Competition
+
+- **Pose estimattion of vehicles based on a single image** Kaggle Competition
+
 
 ## Research Experience
 
@@ -34,15 +43,13 @@ B.Sc in Mechanical Engineering, *Shanghai Jiao Tong University*, Sep 2014 - Jun 
 
 - **An Engergy Harvesting Device**, *Universtiy of Wisconsin-Madison, USA*, Jun 2017 - Sep 2017, supervised by [Prof. Tom Krupenkin](https://directory.engr.wisc.edu/me/Faculty/Krupenkin_Tom/).
 
-
-
 ## Skills
 
 ■ Language: Python, C/C++
 
-■ Software: Matlab, ROS, Simulink, Linux, Visual Studio, LaTex, Labview
+■ Software: Matlab, Simulink, Linux, LaTex, CUDA
 
-■ Package: OpenCV, Tensorflow
+■ Framework: OpenCV, TensorFlow, PyTorch, ROS, Pandas, Numpy
 
 ■ Adept in Mechanical Desgin and Embedded System Design
 
