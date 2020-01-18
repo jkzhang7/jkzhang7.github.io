@@ -10,7 +10,7 @@ redirect_from:
 
 Please click any section to know more about Jingkun!
 
-Please [Click here](https://drive.google.com/file/d/11_qwRbm9h1lz40SFlw8dgBrQTDTjAqyp/view?usp=sharing) to read my Resume! (Updated in 01/2020)
+Please [Click here](https://drive.google.com/file/d/1s1dN_C753HlDG-_MKg9kNbzPu3188BKj/view?usp=sharing) to read my Resume! (Updated in 01/2020)
 
 ## About me
 
