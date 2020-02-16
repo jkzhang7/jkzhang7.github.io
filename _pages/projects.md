@@ -8,7 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-## An Assistive System for Upper Limb Motion Combining Functional Electrical Stimulation and Robotic Exoskeleton
+Under construction.
+
+<!-- ## An Assistive System for Upper Limb Motion Combining Functional Electrical Stimulation and Robotic Exoskeleton
 
 - Designed an embedded system for robotics glove’s control based on STM32 32-bit Arm Cortex MCU
 
@@ -44,4 +46,4 @@ locomotion, which has a much higher energy conversion rate
 
 ![](https://raw.githubusercontent.com/jkzhang7/jkzhang7.github.io/master/images/shaker%20design%201.png)
 
-## Other projects are coming soon!
+## Other projects are coming soon! -->
