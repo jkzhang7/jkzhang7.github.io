@@ -3,15 +3,18 @@ main:
 #  - title: "Bio"
 #    url: /bio/
 
-  - title: "Projects"
-    url: /projects/  
+  # - title: "Projects"
+  #   url: /projects/
     
-  - title: "Publications"
-    url: /publications/  
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Hobbies"
-    url: /hobbies/    
+  # - title: "Hobbies"
+  #   url: /hobbies/
     
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
+
+  - title: "Blogs"
+    url: /year-archive/
         

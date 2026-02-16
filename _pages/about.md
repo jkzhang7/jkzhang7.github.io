@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Jingkun Zhang, a software egineer at nvidia, workong on deep learning compilers and inferecne.
+A software egineer at NVIDIA, workong on deep learning compilers and inferecne.

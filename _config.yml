@@ -80,12 +80,12 @@ analytics:
 # Site Author
 author:
   name             : "Jingkun Zhang"
-  avatar           : "jingkunzhang.jpg"
-  bio              : "Jingkun Zhang, a software egineer at nvidia, workong on deep learning compilers and inferecne."
-  location         : "Bay Area"
+  avatar           : "jingkunzhang_dog.jpg"
+  bio              : ""
+  location         : "San Francisco Bay Area"
   employer         :
   googlescholar    : 
-  email            : "jkzhang7@uw.edu"
+  email            : "jingkzhang7@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
