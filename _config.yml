@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Jingkun Zhang"
   avatar           : "jingkunzhang.jpg"
-  bio              : "Graduate student at UW-Seattle"
-  location         : "Seattle, WA"
+  bio              : "Jingkun Zhang, a software egineer at nvidia, workong on deep learning compilers and inferecne."
+  location         : "Bay Area"
   employer         :
   googlescholar    : 
   email            : "jkzhang7@uw.edu"
@@ -91,12 +91,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "marcojingkun"
+  facebook         :
   foursquare       :
   github           : "jkzhang7"
   google_plus      :
   keybase          :
-  instagram        : "jkzhang7"
+  instagram        :
   lastfm           :
   linkedin         : "jkzhang7"
   orcid            : #"http://orcid.org/yourorcidurl"
