@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-A software egineer at NVIDIA, workong on deep learning compilers and inferecne.
+A software engineer at NVIDIA, working on deep learning compilers and inference.
