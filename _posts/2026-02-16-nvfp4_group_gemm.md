@@ -7,7 +7,7 @@ tags:
   - blog
 ---
 
-Happy Chinese New Year! Besides celebrating CNY this weekend, I also spent some time working on NVFP4 block-scaled group GEMM kernel optimizations on NVIDIA B200. The code is written in [CuTeDSL](https://github.com/NVIDIA/cutlass/tree/main/python/cutlass/cute), CUTLASS's Python DSL for Blackwell kernels.
+Happy Chinese New Year! Besides celebrating CNY this weekend, I also spent some time working on NVFP4 block-scaled group GEMM kernel optimizations on NVIDIA B200. This is from a [GPU Mode competition](https://luma.com/9n27uem4) where participants optimize CUDA kernels on Blackwell GPUs. The code is written in [CuTeDSL](https://docs.nvidia.com/cutlass/latest/media/docs/pythonDSL/cute_dsl.html), CUTLASS's Python DSL for Blackwell kernels.
 
 Here is my optimization journey!
 
@@ -236,4 +236,5 @@ This is the change that makes warp specialization actually pay off. The `Pipelin
 The path forward:
 
 - **Persistent kernel**: One CTA processes multiple tiles across groups, amortizing all setup costs. This is what the [CUTLASS reference](https://github.com/NVIDIA/cutlass/blob/main/examples/python/CuTeDSL/blackwell/grouped_blockscaled_gemm.py) does.
+- **Epilogue warps**: Blackwell supports Epilogue warps, may need to add this in warp specializations. 
 - ...
